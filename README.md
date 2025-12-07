@@ -1,6 +1,6 @@
 # ACD-U
 
-**A Learning Method for learning with noisy labels Using asymmetric Co-teaching with different architectures and Selective Forgetting of Overfitted Noisy Samples**
+**ACD-U: Asymmetric co-teaching with machine unlearning for robust learning with noisy labels**
 
 *Submitted to ELSEVIER Image and Vision Computing*
 
